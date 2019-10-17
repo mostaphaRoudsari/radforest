@@ -1,0 +1,6 @@
+
+desktop.ini
+*.pyc
+__pycache__/
+test.py
+*.egg-info
